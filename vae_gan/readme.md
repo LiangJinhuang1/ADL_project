@@ -13,11 +13,6 @@ The original code and concepts can be found at: [Original Repository](https://mu
 - **Support for MNIST and NotMNIST Datasets**: Includes dataset handling for in-distribution and out-of-distribution scenarios.
 - **Training and Evaluation**: Implements training loops for both generative and classification models, along with uncertainty evaluation metrics.
 
-## Installation
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 

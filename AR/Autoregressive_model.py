@@ -620,7 +620,7 @@ def plot_loss_curve(losses, test_loss=None, epoch_losses=None, show=False, save=
     plt.grid(True, alpha=0.3)
     
     # Set y-axis limits from 0 to 500
-    plt.ylim(0, 5)
+    plt.ylim(0, 1)
     
     if save and savedir is not None and filename is not None:
         save_path = os.path.join(savedir, filename)

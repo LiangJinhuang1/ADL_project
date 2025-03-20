@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```
 
 2. Download the MAESTRO dataset:
-- Visit the [MAESTRO dataset website](https://magenta.tensorflow.org/datasets/maestro)
+- Visit the [(https://storage.googleapis.com/magentadata/datasets/maestro/v3.0.0/maestro-v3.0.0-midi.zip))
 - Download the dataset
 - Extract it to the project directory
 

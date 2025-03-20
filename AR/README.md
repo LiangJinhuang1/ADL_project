@@ -47,10 +47,7 @@ midi-sequence-prediction/
 ├── requirements.txt           # Project dependencies
 ├── README.md                  # This file
 ├── plots/                     # Directory for saved plots and metrics
-└── examples/                  # Directory for example outputs
-    ├── predictions/          # Example prediction plots
-    ├── metrics/             # Example metric comparisons
-    └── training/            # Example training curves
+└── plots/                  # Directory for example outputs
 ```
 
 ## Usage
